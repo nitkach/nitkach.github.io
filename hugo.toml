@@ -1,0 +1,4 @@
+baseURL = 'https://nitkach.github.io/'
+languageCode = 'en-us'
+title = 'Personal website'
+theme = 'hugo-blog-awesome'
