@@ -1,4 +1,6 @@
 baseURL = 'https://nitkach.github.io/'
 languageCode = 'en-us'
 title = 'Personal website'
-theme = 'hugo-blog-awesome'
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
